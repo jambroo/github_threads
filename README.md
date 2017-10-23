@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a small Python 3.5 script to demonstate multithreading.
+This is a small Python 3.5 script to demonstrate multi-threading.
 
 ## Input
 
